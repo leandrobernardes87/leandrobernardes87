@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**leandrobernardes87/leandrobernardes87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Olá! Eu sou Leandro Bernardes 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<a href="https://github.com/leandrobernardes87/github-readme-stats">
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=leandrobernardes87&show_icons=true&theme=transparent" />
+</a>
